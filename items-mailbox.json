@@ -1,5 +1,51 @@
 {
-  "items": [],
+  "items": [
+    {
+      "mailId": "m17911413469433002",
+      "name": "Sniper Rifle",
+      "type": "Weapon",
+      "rarity": "Common",
+      "value": "",
+      "weight": "10",
+      "qty": 1,
+      "stackable": false,
+      "desc": "Just a sniper idk how you got it.... who gave you this?",
+      "notes": "",
+      "equippable": true,
+      "usable": false,
+      "consumable": false,
+      "uses": "",
+      "props": "Ammunition, Heavy, Two-Handed",
+      "weaponWt": "Ranged",
+      "twoHanded": true,
+      "ac": "",
+      "armorType": "Light",
+      "strReq": "",
+      "stealthDisadv": false,
+      "ammoDamage": "",
+      "ammoDmgType": "",
+      "effect": "",
+      "fx": {
+        "str": "",
+        "mnd": "",
+        "sol": "",
+        "def": ""
+      },
+      "conditions": [],
+      "customFields": [],
+      "actions": [
+        {
+          "name": "Sniper Rifle",
+          "damage": "2d8",
+          "dmgType": "Piercing",
+          "range": "300/900 ft",
+          "damage2": "",
+          "dmgType2": "",
+          "notes": ""
+        }
+      ]
+    }
+  ],
   "commands": [
     {
       "cmdId": "c17909588500829182-Secret-Side_FF",
